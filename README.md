@@ -1,6 +1,6 @@
 # CSS_1st_page
-1st page with title
-<!DOCTYPE>  
+1st page with title  
+
 <html>  
 <head>  
 <style>  
@@ -15,7 +15,7 @@ color:blue;
 </style>  
 </head>  
 <body>  
-<h1>Write Your First CSS Example</h1>  
+<h1>My First CSS Page</h1>  
 <p>This is Paragraph.</p>  
 </body>  
 </html>  
